@@ -1,7 +1,7 @@
 {
     "Timestamp": "2018-07-30T14:39:15.033Z",
     "Name": "Strapi",
-    "Version": "v3.0.0-alpha.13.0.1",
+    "Version": "v3.0.0-alpha.26.1",
     "License": "MIT",
     "Inception": "08-2015",
     "Category": "Essential - Professional",
@@ -11,7 +11,7 @@
     "Cloud Service Hosted in Europe": "NA",
     "Commercial Support Available?": "Yes",
     "GraphQL API": "Yes",
-    "GraphQL [Mutations]": "No",
+    "GraphQL [Mutations]": "Yes",
     "GraphQL [Subscriptions]": "No",
     "REST API": "Yes",
     "REST [Create]": "Yes",
